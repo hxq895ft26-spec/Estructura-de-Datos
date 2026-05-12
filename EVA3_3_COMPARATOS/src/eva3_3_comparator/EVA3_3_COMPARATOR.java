@@ -1,0 +1,21 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package eva3_3_comparatos;
+
+/**
+ *
+ * @author 4PF95LA_1909
+ */
+public class EVA3_3_COMPARATOR {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        LinkedList
+    }
+    
+}
